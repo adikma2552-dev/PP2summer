@@ -3,7 +3,6 @@ for i in range(1, 11):
         break
     print(i)
 
-
 fruits = ["apple", "banana", "orange"]
 
 for fruit in fruits:
